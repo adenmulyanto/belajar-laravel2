@@ -9,6 +9,6 @@ class HomeController extends Controller
     //method about
     public function about($nama)
     {
-        return view('pages.about',compact('nama'));
+        return view('pages.about', compact('nama'));
     }
 }

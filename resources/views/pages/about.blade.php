@@ -1,3 +1,1 @@
-<hr>
-<h1> Hi ...<br> {{ $nama }} </h1>
-<hr>
+<h1>Hallo Saya {{$nama}}</h1>
